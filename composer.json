@@ -20,7 +20,7 @@
         "arcanedev/laravel-markdown": "^6.0",
         "codeat3/blade-fluentui-system-icons": "^1.31.1",
         "darkaonline/l5-swagger": "^8.4.1",
-        "diglactic/laravel-breadcrumbs": "^8.0.1",
+        "diglactic/laravel-breadcrumbs": "^8.1.0",
         "elasticsearch/elasticsearch": "^7.17.1",
         "fitzwilliammuseum/maps": "master",
         "fruitcake/laravel-cors": "^3.0.0",
@@ -30,7 +30,7 @@
         "imliam/laravel-blade-helper": "^1.4.3",
         "ksubileau/color-thief-php": "^2.0.1",
         "laravel/fortify": "^1.13.5",
-        "laravel/framework": "^9.48.0",
+        "laravel/framework": "^9.51",
         "laravel/sanctum": "^3.2.1",
         "laravel/tinker": "^2.8.0",
         "laravelcollective/html": "^6.3",
@@ -58,11 +58,11 @@
         "upthemedia/xss-protection": "^0.0.8"
     },
     "require-dev": {
-        "barryvdh/laravel-ide-helper": "^2.12.3",
+        "barryvdh/laravel-ide-helper": "^2.13.0",
         "fakerphp/faker": "^1.21.0",
         "mockery/mockery": "^1.5.1",
         "nunomaduro/collision": "^6.4.0",
-        "phpunit/phpunit": "^9.5.28",
+        "phpunit/phpunit": "^9.6.3",
         "spatie/laravel-ignition": "^1.6.4",
         "wnx/laravel-stats": "^2.11.0"
     },
